@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-croud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linter base rules for eslint",
   "main": "index.js",
   "scripts": {
