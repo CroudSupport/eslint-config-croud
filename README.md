@@ -1,9 +1,9 @@
 # eslint-config-croud
-eslint config for extending in projects
+Linter base rules for eslint
 
 ## Installation
 ```bash
-yarn install eslint-config-croud
+yarn add eslint-config-croud
 ```
 
 Once installed add the following line to your .eslintrc.js
