@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-croud",
+  "version": "1.0.0",
+  "description": "Linter base rules for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CroudSupport/eslint-config-croud.git"
+  },
+  "keywords": [
+    "croud",
+    "lint",
+    "elsint"
+  ],
+  "author": "Brock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CroudSupport/eslint-config-croud/issues"
+  },
+  "homepage": "https://github.com/CroudSupport/eslint-config-croud#readme"
+}
